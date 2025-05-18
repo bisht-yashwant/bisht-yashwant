@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bisht-yashwant
 - 👀 I’m interested in Linux, programming, gamming
-- 🌱 I’m work on Yii and Yii2
+- 🌱 I work on Php-Yii2 and python
 - 🌱 I’m currently learning HTML, css javaScript, ionic VueJs, Php laravel, Django
 - 💞️ I’m looking to collaborate on these project
-- 📫 How to reach me insta : @bisht.rackstar
+- 📫 You can reach me with yashwantsinghtbisht054@gmail.com
 
 <!---
 bisht-yashwant/bisht-yashwant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
